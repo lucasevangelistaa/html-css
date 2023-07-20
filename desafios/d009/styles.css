@@ -7,13 +7,28 @@ h1 {
 body {
   background-color: #292929;
 }
-a#complet {
+div {
+  display: flex;
+  justify-content: center;
+}
+img {
+  margin: 5px;
+}
+iframe {
+  display: block;
+  margin: auto;
+}
+#complet {
+  display: block;
+  text-align: center;
+}
+/* a#complet {
   display: block;
   text-align: center;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-}
-img#pa{
+} */
+/* img#pa{
   display: inline-block;
-}
+} */
